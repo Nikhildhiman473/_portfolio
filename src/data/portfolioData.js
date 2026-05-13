@@ -9,14 +9,18 @@ const portfolioData = {
 
   linkedin: "http://linkedin.com/in/nikhil-kumar-228471344",
 
-  skills: [
-    "React.js",
-    "Next.js",
-    "Node.js",
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "C++"
+  
+    skills: [
+  "React.js",
+  "Next.js",
+  "Node.js",
+  "JavaScript",
+  "HTML",
+  "CSS",
+  "C++",
+  "MySQL",
+  "MongoDB"
+
   ],
 
   projects: [
