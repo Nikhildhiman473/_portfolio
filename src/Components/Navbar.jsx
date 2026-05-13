@@ -11,12 +11,7 @@ function Navbar() {
         <a href="#skills">Skills</a>
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
-        <a href={data.github} target="_blank" rel="noreferrer">
-          GitHub
-        </a>
-        <a href={data.linkedin} target="_blank" rel="noreferrer">
-          LinkedIn
-        </a>
+        
       </div>
     </nav>
   );
